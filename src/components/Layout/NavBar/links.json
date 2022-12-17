@@ -1,0 +1,10 @@
+{
+  "links": [
+    { "name": "About us", "to": "/about-us" },
+    { "name": "Product catalog", "to": "/product-catalog" },
+    { "name": "Payment and delivery", "to": "/payment-and-delivery" },
+    { "name": "Partners", "to": "/partners" },
+    { "name": "News", "to": "/news" },
+    { "name": "Contacts", "to": "/contacts" }
+  ]
+}
